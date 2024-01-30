@@ -1,0 +1,21 @@
+h1, h2, h3 {
+    font-weight:bolder;
+    font-size: 40px;
+}
+
+a, p, li {
+    color: black;
+    font-size: 25px;
+}
+
+* {
+    font-family: cursive;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+
+body {
+    background-color: rgb(197, 228, 200);
+}
